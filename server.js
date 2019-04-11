@@ -19,7 +19,7 @@ var routes = require('./controllers/routes.js')
 app.use('/', routes)
 
 
-var PORT = 8080;
+var PORT = process.env.PORT || 8080;
 app.listen(PORT, function () {
     console.log("active on port " + PORT)
 })
