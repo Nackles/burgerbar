@@ -1,5 +1,5 @@
 # Burger Bar Github
-https://github.com/Nackles/burgerbar
+https://nackles.github.io/burgerbar/
 
 # Burger Bar Heroku
 // To be added once I'm on a secure network
